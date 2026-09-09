@@ -3,6 +3,7 @@ def add(a, b):
 
 
 def subtract(a, b):
+    #リモート側での変更
     return a - b
 
 def multiply(a, b):
